@@ -20,7 +20,7 @@
 <input type="radio" name="gender" id="female" value="Žena">
 <label for="female">Žena</label>
 <br>
-<input type="radio" name="gender" id="none" value="Nicz uvedených">
+<input type="radio" name="gender" id="none" value="Nic z uvedených">
 <label for="none">Nic z uvedených</label>
 <br>
 <label for="email">E-mail:</label>
