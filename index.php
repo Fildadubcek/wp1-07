@@ -27,9 +27,9 @@
 <input type="email" name="email" id="email">
 <br>
 <label for="securityquestion">Kontrolní otázka</label>
-<select name="firstquestion" id="firstquestion">
-<option value="pet">Jaký byl tvůj první mazlíček?</option>
-<option value="nametag">Jaká byla vaše první přezdívka?</option>
+<select name="securityquestion" id="securityquestion">
+<option value="Jaký byl tvůj první mazlíček?">Jaký byl tvůj první mazlíček?</option>
+<option value="Jaká byla vaše první přezdívka?">Jaká byla vaše první přezdívka?</option>
 </select>
 <br>
 <label for="securityanswer">Odpověď:</label>
