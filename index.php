@@ -14,13 +14,13 @@
 <label for="surname">Příjmení </label>
 <input type="text" name="surname" id="surname">
 <br>
-<input type="radio" name="gender" id="male" value="male">
+<input type="radio" name="gender" id="male" value="Muž">
 <label for="male">Muž</label>
 <br>
-<input type="radio" name="gender" id="female" value="female">
+<input type="radio" name="gender" id="female" value="Žena">
 <label for="female">Žena</label>
 <br>
-<input type="radio" name="gender" id="none" value="none">
+<input type="radio" name="gender" id="none" value="Nicz uvedených">
 <label for="none">Nic z uvedených</label>
 <br>
 <label for="email">E-mail:</label>

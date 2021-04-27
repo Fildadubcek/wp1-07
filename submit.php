@@ -14,10 +14,12 @@
  $gender = filter_input(INPUT_POST, 'gender');
  $email = filter_input(INPUT_POST, 'email');
  $securityanswer = filter_input(INPUT_POST, 'securityanswer');
+ $securityquestion = filter_input(INPUT_POST, 'securityquestion');
   echo "Vaše jméno je $name <br>";
   echo "Vaše příjmení je $surname <br>";
   echo "Vaše pohlaví je $gender <br>";
   echo "Váš email je $email<br>";
+  echo "Váš kontrolní otázka je $securityquestion <br>";
   echo "Vaše kontrolní odpoveď je $securityanswer";
   ?>
 
